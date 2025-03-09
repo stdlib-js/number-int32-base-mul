@@ -137,7 +137,7 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math-base/ops/imuldw`][@stdlib/math/base/ops/imuldw]</span><span class="delimiter">: </span><span class="description">compute the double word product of two signed 32-bit integers.</span>
+-   <span class="package-name">[`@stdlib/number-int32/base/muldw`][@stdlib/number/int32/base/muldw]</span><span class="delimiter">: </span><span class="description">compute the double word product of two signed 32-bit integers.</span>
 
 </section>
 
@@ -217,7 +217,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/math/base/ops/imuldw]: https://github.com/stdlib-js/math-base-ops-imuldw
+[@stdlib/number/int32/base/muldw]: https://github.com/stdlib-js/number-int32-base-muldw
 
 <!-- </related-links> -->
 
